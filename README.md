@@ -1,5 +1,11 @@
 # Task 01
 
+Install torch:
+
+```
+pip install torch
+```
+
 To run train, execute:
 
 ```
